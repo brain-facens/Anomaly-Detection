@@ -4,5 +4,5 @@ Foram realizados testes com a biblioteca Anomalib para validação de arquitetur
 A partir dos testes feitos, foram obtidos melhores resultados para a arquitetura PatchCore. Mas a escolha do modelo para um problema real depende de vários fatores, como os os objetivos específicos da detecção (classificação ou segmentação) e o tipo de imagem a ser trabalhado.
 
 
-## Reference
+## Referência
 - [**Anomalib**](https://github.com/openvinotoolkit/anomalib)
